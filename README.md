@@ -55,7 +55,7 @@ After logging in, you'll see your **avatar** in the top right corner. Click it t
 
 Create this folder structure and add your MP3 files:
 
-```
+\`\`\`
 public/audio/
 ├── male/
 │   ├── globalisation/
@@ -79,7 +79,7 @@ public/audio/
 │       └── fdi-oli-framework.mp3
 └── female/
     └── [Same structure as male/]
-```
+\`\`\`
 
 ### 4. Start Using the App
 
