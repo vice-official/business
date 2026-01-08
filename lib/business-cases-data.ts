@@ -57,14 +57,14 @@ export const sections: Section[] = [
         },
       },
       {
-        id: "zohos",
-        title: "Zohos",
-        description: "Zohos globalisation strategy",
-        audioUrlMale: "/audio/section1/zohos-male.mp3",
-        audioUrlFemale: "/audio/section1/zohos-female.mp3",
+        id: "zoho",
+        title: "Zoho",
+        description: "Zoho globalisation strategy",
+        audioUrlMale: "/audio/section1/zohos.mp3",
+        audioUrlFemale: "/audio/section1/zohos.mp3",
         transcript: {
-          en: "Zohos demonstrates successful global expansion strategies in the software industry...",
-          ru: "Zohos демонстрирует успешные стратегии глобальной экспансии в индустрии программного обеспечения...",
+          en: "Zoho demonstrates successful global expansion strategies in the software industry...",
+          ru: "Zoho демонстрирует успешные стратегии глобальной экспансии в индустрии программного обеспечения...",
         },
         keyPoints: {
           en: [
